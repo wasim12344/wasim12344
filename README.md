@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 - 📱 Self-taught **Android enthusiast who loves porting OEM & Custom ROMs** for devices
-- 📊 **Aspiring Data Analyst** building hands-on skills in **Python**, **SQL**, and **Excel**
+- 📊 **Aspiring Data Analyst** building hands-on skills in **Python**, **MySQL**, and **Excel**
 - 🌱 Actively learning and creating portfolio projects in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Visualization**
 - ⚡ Tinkering with **Fastboot**, **ADB**, and **Bash scripting** for device modding
 - 🤝 Open to learning opportunities, entry-level roles, and collaborations
@@ -45,7 +45,7 @@
 
 #### Data Analytics & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
