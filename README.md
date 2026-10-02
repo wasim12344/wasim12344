@@ -7,15 +7,19 @@
 
 <br><br>
 
-<!-- Hero Section: Monochrome ASCII Portrait (types in with cursor) + Neofetch System Info Card -->
-<h3><code>wasim@github ~ $ whoami</code></h3>
+<!-- Neofetch Terminal System Card with Animated Photo, Falling Snow Particles, and Neon Glow -->
+<h3><code>wasim@github ~ $ neofetch</code></h3>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./wasim-ascii.svg" width="370" alt="Wasim Khan — ASCII Portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Wasim Khan — Neofetch Info Card" /></td>
-  </tr>
-</table>
+<img src="./info-card.svg" width="860" alt="Wasim Khan — Neofetch Info Card" />
+
+<br><br>
+
+<!-- Terminal ASCII Art Portrait (Typewriter SMIL animation) -->
+<details>
+  <summary><b><code>wasim@github ~ $ cat ./ascii_portrait.art</code> (Click to expand ASCII Art)</b></summary>
+  <br>
+  <img src="./wasim-ascii.svg" width="700" alt="Wasim Khan — ASCII Portrait" />
+</details>
 
 <br>
 
