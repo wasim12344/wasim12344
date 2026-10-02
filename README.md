@@ -2,7 +2,7 @@
   <img width="260" src="https://raw.githubusercontent.com/wasim12344/wasim12344/main/wasim.gif" alt="Wasim Khan Avatar"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analytics+%26+BI+Enthusiast;Always+Learning+%26+Building+Projects." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analytics+%26+BI;Always+Learning+%26+Building+Projects." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 📱 Self-taught **Android enthusiast who loves porting OEM & Custom ROMs** for devices
+- 📱 Self-taught **Android developer who loves porting OEM & Custom ROMs** for devices
 - 📊 **Data Analyst** with practical skills in **MySQL**, **Power BI**, **Tableau**, and **Advanced Excel**
 - 📈 Hands-on experience in **EDA**, **Data Cleaning**, **Data Validation**, **MIS Reporting**, and **Predictive Modeling**
 - 🛠️ Building data workflows and web apps using **Streamlit**, **Scikit-learn**, **Pandas**, and **Jupyter / Google Colab**
