@@ -82,17 +82,3 @@
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| [**dmart-sales-analysis**](https://github.com/wasim12344/dmart-sales-analysis) | Retail sales performance analysis, customer purchasing trends & EDA | Python / Pandas / EDA |
-| [**Vrinda-Store-Data-Analysis**](https://github.com/wasim12344/Vrinda-Store-Data-Analysis) | E-commerce sales channel optimization, customer insights & reporting | Excel / Pivot Tables / Power BI |
-
-</div>
-
-<br/>
