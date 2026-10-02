@@ -27,20 +27,6 @@ const Wasim = {
 ---
 
 <div align="center">
-
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=wasim12344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
-
-</div>
-
-<div align="center">
-
-<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim12344&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats"/>
-
-</div>
-
----
-
-<div align="center">
   <h3><code>wasim@github ~ $ ./contributions.sh</code></h3>
   <img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap"/>
 </div>
