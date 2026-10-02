@@ -2,7 +2,7 @@
   <img width="260" src="https://raw.githubusercontent.com/wasim12344/wasim12344/main/wasim.gif" alt="Wasim Khan Avatar"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Android+ROM+Developer+%26+Porter;Data+Analyst+%26+Python+Developer;OEM+ROM+Ports+%E2%80%A2+System+Tweaks." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analyst+%26+Python+Developer;OEM+ROM+Ports+%E2%80%A2+System+Tweaks." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 📱 Passionate **Android ROM Developer** specializing in **OEM ROM porting** and custom device optimization
+- 📱 Passionate **Android enthusiast who loves porting OEM & Custom ROMs** for devices
 - 📊 **Data Analyst** skilled in **Python**, **SQL**, and **Business Intelligence** dashboards
 - 🛠️ Experienced in building **ETL pipelines**, **Exploratory Data Analysis (EDA)**, and **system tweaks**
 - ⚡ Working with **Fastboot**, **ADB**, **Bash scripting**, and **Android vendor/system images**
@@ -76,7 +76,6 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| **OEM ROM Ports** | Porting OEM firmware and custom ROMs for device compatibility and performance | Android / Bash / Fastboot |
 | [**dmart-sales-analysis**](https://github.com/wasim12344/dmart-sales-analysis) | Sales performance & customer purchase analysis with retail insights | Python / Pandas / EDA |
 | [**Vrinda-Store-Data-Analysis**](https://github.com/wasim12344/Vrinda-Store-Data-Analysis) | E-commerce sales channel optimization and business reporting | Python / Excel / BI |
 
