@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1112" height="875" viewBox="0 0 1112 875">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#card-bg); stroke: #30363d; stroke-width: 1; rx: 16px; }
+      .titlebar { fill: #161b22; }
+      .title-text { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; }
+      .banner-user { fill: #3fb950; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 26px; font-weight: 700; }
+      .banner-sep { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 20px; }
+      .key { fill: #58a6ff; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 20px; font-weight: 600; }
+      .val { fill: #e6edf3; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 20px; }
+      .row {
+        opacity: 0;
+        transform: translateY(8px);
+        animation: fadeSlide 0.4s ease-out forwards;
+      }
+      @keyframes fadeSlide {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Window Frame -->
+  <rect x="0.5" y="0.5" width="1111" height="874" class="bg" />
+
+  <!-- Titlebar -->
+  <path d="M 0.5,16 A 16,16 0 0,1 16,0.5 L 1096,0.5 A 16,16 0 0,1 1111.5,16 L 1111.5,40 L 0.5,40 Z" class="titlebar" />
+  <line x1="0" y1="40" x2="1112" y2="40" stroke="#30363d" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="26" cy="20" r="7" fill="#ff5f56" />
+  <circle cx="48" cy="20" r="7" fill="#ffbd2e" />
+  <circle cx="70" cy="20" r="7" fill="#27c93f" />
+
+  <!-- Title -->
+  <text x="556.0" y="25" class="title-text" text-anchor="middle">wasim@github: ~ (neofetch)</text>
+
+  <!-- Neofetch Header -->
+  <g transform="translate(50, 95)">
+    <text x="0" y="0" class="banner-user">wasim<tspan fill="#8b949e">@</tspan>github</text>
+    <text x="0" y="24" class="banner-sep">-----------------------------</text>
+  </g>
+
+  <!-- Staggered Rows -->
+    <g class="row" style="animation-delay: 0.1s;">
+      <text x="50" y="175" class="key">OS:</text>
+      <text x="240" y="175" class="val">Data Analytics & ML Linux Env (x86_64)</text>
+    </g>
+    <g class="row" style="animation-delay: 0.18s;">
+      <text x="50" y="229" class="key">Host:</text>
+      <text x="240" y="229" class="val">Wasim Khan (@wasim12344)</text>
+    </g>
+    <g class="row" style="animation-delay: 0.26s;">
+      <text x="50" y="283" class="key">Role:</text>
+      <text x="240" y="283" class="val">Data Analyst & Python Developer</text>
+    </g>
+    <g class="row" style="animation-delay: 0.34s;">
+      <text x="50" y="337" class="key">Kernel:</text>
+      <text x="240" y="337" class="val">Python 3.12 • SQL • Pandas • NumPy</text>
+    </g>
+    <g class="row" style="animation-delay: 0.42s;">
+      <text x="50" y="391" class="key">Uptime:</text>
+      <text x="240" y="391" class="val">Coding & Analyzing Data Daily</text>
+    </g>
+    <g class="row" style="animation-delay: 0.5s;">
+      <text x="50" y="445" class="key">Shell:</text>
+      <text x="240" y="445" class="val">bash 5.2 / Git / GitHub CLI</text>
+    </g>
+    <g class="row" style="animation-delay: 0.58s;">
+      <text x="50" y="499" class="key">BI & Tools:</text>
+      <text x="240" y="499" class="val">Power BI • Excel • Jupyter • Seaborn • Matplotlib</text>
+    </g>
+    <g class="row" style="animation-delay: 0.66s;">
+      <text x="50" y="553" class="key">Projects:</text>
+      <text x="240" y="553" class="val">dmart-sales-analysis, Vrinda-Store-Data-Analysis</text>
+    </g>
+    <g class="row" style="animation-delay: 0.74s;">
+      <text x="50" y="607" class="key">Focus:</text>
+      <text x="240" y="607" class="val">Exploratory Data Analysis • ETL Pipelines • Business Insights</text>
+    </g>
+    <g class="row" style="animation-delay: 0.82s;">
+      <text x="50" y="661" class="key">GitHub:</text>
+      <text x="240" y="661" class="val">https://github.com/wasim12344</text>
+    </g>
+
+  <!-- Divider -->
+  <line x1="50" y1="735" x2="1062" y2="735" stroke="#30363d" stroke-width="1" />
+
+  <!-- Color Palette Dots -->
+  <g transform="translate(50, 780)">
+    <circle cx="15" cy="0" r="14" fill="#21262d" />
+    <circle cx="55" cy="0" r="14" fill="#ff7b72" />
+    <circle cx="95" cy="0" r="14" fill="#7ee787" />
+    <circle cx="135" cy="0" r="14" fill="#f2cc60" />
+    <circle cx="175" cy="0" r="14" fill="#58a6ff" />
+    <circle cx="215" cy="0" r="14" fill="#bc8cff" />
+    <circle cx="255" cy="0" r="14" fill="#39c5cf" />
+    <circle cx="295" cy="0" r="14" fill="#ffffff" />
+    <text x="1012" y="7" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" text-anchor="end">neofetch v7.1.0</text>
+  </g>
+</svg>
