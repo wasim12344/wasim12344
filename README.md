@@ -2,7 +2,7 @@
   <img width="260" src="https://raw.githubusercontent.com/wasim12344/wasim12344/main/wasim.gif" alt="Wasim Khan Avatar"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analyst+%26+Python+Developer;OEM+ROM+Ports+%E2%80%A2+System+Tweaks." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Aspiring+Data+Analyst;Always+Learning+%26+Building+Projects." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 📱 Passionate **Android enthusiast who loves porting OEM & Custom ROMs** for devices
-- 📊 **Data Analyst** skilled in **Python**, **SQL**, and **Business Intelligence** dashboards
-- 🛠️ Experienced in building **ETL pipelines**, **Exploratory Data Analysis (EDA)**, and **system tweaks**
-- ⚡ Working with **Fastboot**, **ADB**, **Bash scripting**, and **Android vendor/system images**
-- 🤝 Open to collaborations on Android porting and data analysis projects
+- 📱 Self-taught **Android enthusiast who loves porting OEM & Custom ROMs** for devices
+- 📊 **Aspiring Data Analyst** building hands-on skills in **Python**, **SQL**, and **Excel**
+- 🌱 Actively learning and creating portfolio projects in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Visualization**
+- ⚡ Tinkering with **Fastboot**, **ADB**, and **Bash scripting** for device modding
+- 🤝 Open to learning opportunities, entry-level roles, and collaborations
 
 </td>
 </tr>
@@ -62,9 +62,9 @@
 <div align="center">
 
 ![OEM Ports](https://img.shields.io/badge/Focus-OEM_ROM_Porting-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kernel Tweaks](https://img.shields.io/badge/Focus-System_Optimization-FCC624?style=flat-square&logo=linux&logoColor=black)
-![EDA & BI](https://img.shields.io/badge/Focus-Exploratory_Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Focus-BI_Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Focus-Python_&_Pandas-3776AB?style=flat-square&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/Focus-Data_Analysis_Projects-150458?style=flat-square&logo=pandas&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Focus-Power_BI_&_Excel-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
 
