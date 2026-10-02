@@ -2,7 +2,7 @@
   <img width="260" src="https://raw.githubusercontent.com/wasim12344/wasim12344/main/wasim.gif" alt="Wasim Khan Avatar"/>
   <br/><br/>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analytics+%26+BI;Always+Learning+%26+Building+Projects." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=34&duration=2500&pause=2000&color=89DCEB&center=true&width=550&height=60&lines=Hey%2C+I'm+Wasim+Khan.;Love+to+Port+Android+ROMs+%E2%9D%A4%EF%B8%8F;Data+Analytics+%26+Machine+Learning;Always+Learning+%26+Building+Projects." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Data Visualization & BI
+#### Data Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -76,7 +76,7 @@
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/Focus-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI & Tableau](https://img.shields.io/badge/Focus-Power_BI_&_Tableau-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Focus-Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Focus-EDA_&_Data_Validation-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </div>
