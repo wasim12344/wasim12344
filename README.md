@@ -23,10 +23,3 @@ const Wasim = {
     projects: ["dmart-sales-analysis", "Vrinda-Store-Data-Analysis"],
 };
 ```
-
----
-
-<div align="center">
-  <h3><code>wasim@github ~ $ ./contributions.sh</code></h3>
-  <img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap"/>
-</div>
