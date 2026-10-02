@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/wasim12344"><img src="https://img.shields.io/badge/-GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=CDD6F4" alt="GitHub"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89DCEB" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/wasim-khan-301800313"><img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89DCEB" alt="LinkedIn"/></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-1e1e2e?style=for-the-badge&logo=python&logoColor=F9E2AF" alt="Python"/></a>
 </div>
 
