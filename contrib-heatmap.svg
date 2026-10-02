@@ -430,7 +430,7 @@
       <rect class="cell" x="766" y="93" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.902s;"><title>2026-09-29: 0 contributions</title></rect>
       <rect class="cell" x="766" y="107" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.937s;"><title>2026-09-30: 0 contributions</title></rect>
       <rect class="cell" x="766" y="121" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.972s;"><title>2026-10-01: 0 contributions</title></rect>
-      <rect class="cell" x="766" y="135" width="11" height="11" rx="2.5" fill="#56e379" style="animation-delay: 1.007s;"><title>2026-10-02: 30 contributions</title></rect>
+      <rect class="cell" x="766" y="135" width="11" height="11" rx="2.5" fill="#56e379" style="animation-delay: 1.007s;"><title>2026-10-02: 32 contributions</title></rect>
   </g>
 
   <!-- Divider Line -->
@@ -439,7 +439,7 @@
   <!-- Stats & Legend Footer -->
   <g transform="translate(38, 214)">
     <text x="0" y="0">
-      <tspan class="stat-val">38</tspan> <tspan class="stat-lbl">contributions in the last year</tspan>
+      <tspan class="stat-val">40</tspan> <tspan class="stat-lbl">contributions in the last year</tspan>
       <tspan dx="24" class="stat-val">1d</tspan> <tspan class="stat-lbl">current streak</tspan>
       <tspan dx="20" class="stat-val">3d</tspan> <tspan class="stat-lbl">longest streak</tspan>
     </text>
