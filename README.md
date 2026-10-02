@@ -75,10 +75,9 @@
 
 <div align="center">
 
-![OEM Ports](https://img.shields.io/badge/Focus-OEM_ROM_Porting-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/Focus-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI & Tableau](https://img.shields.io/badge/Focus-Power_BI_&_Tableau-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Focus-EDA_&_Data_Validation-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Focus-Streamlit_Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
