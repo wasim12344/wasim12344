@@ -430,7 +430,7 @@
       <rect class="cell" x="766" y="93" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.902s;"><title>2026-10-20: 1 contribution</title></rect>
       <rect class="cell" x="766" y="107" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.937s;"><title>2026-10-21: 1 contribution</title></rect>
       <rect class="cell" x="766" y="121" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.972s;"><title>2026-10-22: 1 contribution</title></rect>
-      <rect class="cell" x="766" y="135" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 1.007s;"><title>2026-10-23: 0 contributions</title></rect>
+      <rect class="cell" x="766" y="135" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay: 1.007s;"><title>2026-10-23: 2 contributions</title></rect>
   </g>
 
   <!-- Divider Line -->
@@ -439,9 +439,9 @@
   <!-- Stats & Legend Footer -->
   <g transform="translate(38, 214)">
     <text x="0" y="0">
-      <tspan class="stat-val">65</tspan> <tspan class="stat-lbl">contributions in the last year</tspan>
-      <tspan dx="24" class="stat-val">21d</tspan> <tspan class="stat-lbl">current streak</tspan>
-      <tspan dx="20" class="stat-val">21d</tspan> <tspan class="stat-lbl">longest streak</tspan>
+      <tspan class="stat-val">67</tspan> <tspan class="stat-lbl">contributions in the last year</tspan>
+      <tspan dx="24" class="stat-val">22d</tspan> <tspan class="stat-lbl">current streak</tspan>
+      <tspan dx="20" class="stat-val">22d</tspan> <tspan class="stat-lbl">longest streak</tspan>
     </text>
 
     <!-- Legend -->
